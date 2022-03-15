@@ -24,4 +24,5 @@ public class BusinessPartners {
         System.out.print(name3 + ", " + name1 + ", and " + name2 + "\n");
         System.out.print(name3 + ", " + name2 + ", and " + name1);
     }
+
 }
